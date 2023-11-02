@@ -1,0 +1,59 @@
+.form-container {
+    text-align: center;
+}
+
+.no-border {
+    border: none;
+    
+    padding: 10px;
+    margin: 10px;
+    outline: none;
+}
+
+.hr{
+    width: 200px;
+    color: blue;
+    text-align: left
+    
+
+
+    
+}
+.remember-me {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    
+    
+}
+
+
+
+
+.login-button {
+    background: blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 200px;
+    
+}
+.hr1{
+    width: 200px;
+    color: blue;
+    text-align: left
+}
+
+.rem{
+    text-align: center;
+}
+
+.form{
+    border: 1px solid black;
+    width: 260px;
+    height: 300px;
+    border-radius: 22px;
+
+}
